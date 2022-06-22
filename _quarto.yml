@@ -1,0 +1,69 @@
+project:
+  type: book
+  
+  site-url: https://rstudio-education.github.io/hopr/
+  repo-url: https://github.com/jjallaire/hopr/
+  repo-branch: master
+  repo-actions: [edit]
+  sharing: [twitter, facebook, linkedin]
+
+book:
+  title: "online_resourceR"
+  author: "Jane Doe"
+  date: "22/06/2022"
+  chapters:
+    - 1-todo_list.qmd
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+  
+  # examples of complex structure with lots of calls
+  # chapters:
+  #   - index.qmd 
+  #   - preface.qmd
+  #   - part: dice.qmd # here it's a script that is executed on the main page of the part with the calling name --> here the script is used as the click-on page when rendered
+  #     chapters: 
+  #       - basics.qmd
+  #       - packages.qmd
+  #   - part: cards.qmd 
+  #     chapters:
+  #       - objects.qmd
+  #       - notation.qmd
+  #       - modifying.qmd
+  #       - environments.qmd
+  #   - part: slots.qmd
+  #     chapters:
+  #       - programs.qmd
+  #       - s3.qmd
+  #       - loops.qmd
+  #       - speed.qmd
+  # appendices:
+  #   - a1-starting.qmd
+  #   - a2-packages.qmd
+  #   - a3-updating.qmd
+  #   - a4-data.qmd
+  #   - a5-debug.qmd   
+bibliography: references.bib
+
+format:
+  html: 
+    theme: cosmo
+    code-link: true
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
+
+
+
+
+
+
+
+
+
+
+
+

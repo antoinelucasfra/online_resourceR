@@ -1,0 +1,25 @@
+# TODO
+
+#### This is the todo-list to follow-up progress for redacting the quarto book about all the cheatsheet and links aggregated.
+
+Here are listed every steps that needs to be done to have a first draft of the book :
+
+1.  end setup of project (git, renv)
+
+2.  fetch all links from all sources (words docs, google keeps, chrome windows, etc...)
+
+3.  sort all the links into categories (methods/random forest, IT/linux stuffs, deployment/kubernetes, etc...)
+
+4.  write a quarto doc for each categories and list all the links + a small explanations for each
+
+#### In a second time : 
+
+-   get value from the links --\> explaining what's the use and redacting small examples about what can be done
+
+-   match python stuffs into quarto docs + examples of ML
+
+-   make A REAL STATISTICAL COURSES or point out to this + a R for beginners/sthg like this
+
+## License
+
+This website is (and will always be) **free to use**, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) License. If you'd like a **physical copy** of the book, you can order it from [amazon](https://www.amazon.com/Hands-Programming-Write-Functions-Simulations/dp/1449359019); it was published by O'Reilly in July 2014. If you'd like to give back, please consider reporting a typo or leaving a pull request at [github.com/rstudio-education/hopr](https://github.com/rstudio-education/hopr).
