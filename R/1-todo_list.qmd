@@ -1,0 +1,34 @@
+# TODO
+
+#### This is the todo-list to follow-up progress for redacting the quarto book about all the cheatsheet and links aggregated.
+
+Here are listed every steps that needs to be done to have a first draft of the book :
+
+1.  end setup of project (git, renv)
+
+2.  fetch all links from all sources (words docs, google keeps, chrome windows, etc...)
+
+3.  sort all the links into categories (methods/random forest, IT/linux stuffs, deployment/kubernetes, etc...)
+
+4.  write a quarto doc for each categories and list all the links + a small explanations for each OR EDIT A DATAFRAME WITH TAG COLUMNS ??
+
+
+#### In a second time :
+
+-   get value from the links --> explaining what's the use and redacting small examples about what can be done
+
+-   match python stuffs into quarto docs + examples of ML
+
+-   make A REAL STATISTICAL COURSES or point out to this + a R for beginners/sthg like this
+
+
+
+## PROBLEMS
+
+Comment merger l'ensemble des ressources, liens + documents/pdfs, etC... --> rédiger bouquin avec citation/réfs aux docs éventuels ?
+
+
+```{}
+
+
+```

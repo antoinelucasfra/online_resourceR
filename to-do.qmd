@@ -1,0 +1,9 @@
+todo list :
+
+-   polish website
+
+-   include cv, about, projects, blog tabs
+
+-   explain in blog posts the projects (shiny app for meetups, skate deep learning/huggingface + show quarto R/python integration)
+
+-   polish websites globally

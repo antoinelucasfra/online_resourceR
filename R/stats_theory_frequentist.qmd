@@ -1,0 +1,87 @@
+---
+title: "THEORY"
+---
+
+# Theory on stats LINKS :
+
+
+# THEORY EXPLAINED --\ TO FETCH WHEN REDACTING CHAPTERS HERE
+
+Les différents tests statistiques :
+P-value : c’est la proba que le hasard peut expliquer tout seul 1 différence AU MOINS aussi importante que celle observée.
+Il y a 2 types d’hypothèses :
+•	Neyman/pearson : l’hypothèse H0 : pa= pb et H1 : pa != pb avec par ex p=0.049 et p=0.00001 ont la MEME « force » de test
+•	Fischer : pareil mais p=0.049 et p = 0.0000001 ont PAS DU TOUT la même force de test
+
+COMPARAISON DE 2 POURCENTAGES
+
+Prop.table(dataframe, ½) =regarde le % de 1ere variable // à 2eme (2/1 si inverse)
+•	Test du chi-2 : chisq.test(x,y,correct=FALSE/TRUE)   AVEC les hypothèses de validité (% loin de 0 et 100 et grand échantillon)
+•	Test fischer si aucune hypothèse vérifiée : fisher.test(x,y)
+
+COMPARAISON DE 2 MOYENNES
+
+•	Test de student : n30 avec une distribution normale. Diagramme de normalité : qqnorm() et qqline(x). Calcul variance : by(x,y,sd,na.rm=TRUE)
+T.test(x~y,var.equal=TRUE)
+si pas d’hypothèses : wilcox.test(x~y)
+Test nullité d’un coeff de corrélation,
+•	Test nullité de corrélation entre 2 variables : 1 des 2 variables doit suivre la loi normale =pearson : cor.test(x,y)
+•	Spearman(x,y,method= »spearman »)
+Comparaison de moyenne // à moyenne de référence
+•	T.test(var,varfixe=XXXX)
+•	Mcnemar.test(var avant, var après)  POUR VAR QUALI
+•	T.test (début,fin,paired=TRUE)  POUR VAR QUANTI
+
+LE T-TEST ANALYSE LES ECARTS TYPES ET LE F-TEST ANALYSE LES MOYENNES
+
+TEST NON PARAMETRIQUES
+Test de wilcoxon : comparaison de K= 2 echantillons independants par rapport a une variable X de nature : Quantitative/Qualitative ordinale
+C'est le test de l'hypothèse selon laquelle les médianes de chacun de deux groupes de données sont proche
+Test de cruskal wallis : est une comparaison de K=3 échantillons. Ainsi, l'interprétation du test de Kruskal-Wallis est très similaire à une ANOVA paramétrique d'ordre Un, sauf qu'il est basé sur les rangs au lieu des moyennes.
+
+
+REGRESSION LINEAIRE SIMPLE (GENERALISATION DU TEST DE STUDENT)
+Modèle :lm(x~y,data= dataframe)
+
+REGRESSION LINEAIRE MULTIPLE :
+
+Les hypothèses à vérifier sont : normalité du bruit et terme résiduel, le bruit est indépendant des valeurs des autres variables, ABSENCE de corrélation évidente, interne avec le bruit
+Lm(x~y+w+z,data = dataframe)
+Var quanti = somme (var quanti ou binaire MAIS PAS QUALI) si on veut des quali=codage à la main
+Interactions entre 2 var = on met un *
+Analyse de variance/covariance = cas particulier de régression linéaire multiple : toutes les variables explicatives sont catégorielles ou quantitatives
+
+REGRESSION LOGISTIQUE
+
+Si la variable à expliquer est non quantitative :
+-logistique -transforme les variables
+Glm(modèle, data = …, family = « binomial »)
+-coeff lu dans estimate lire exp(valeur estimate) a un sens : odd-ratio
+pour la regresison multiple on rajoute des var explicatives
+
+Hypothèses : au moins 5 à 10 évènements par var explicatives
+Ex : si une var a expliquer a 54 individus, (age(1), trauma(1) et profession(7)) et 1 + 1 + 7 =9 *10(=nbr evenement) = 9054 donc c’est bon !
+Ex : 1 + 1 +7 =9*5 = 45  54 - passe tout juste  pas fou !
+
+Lien recap tests stats
+https://help.xlstat.com/s/article/guide-de-choix-de-test-statistique?language=fr
+
+ANALYSES DE DONNEES MULTIVARIEES (CF MOOC HUSSON ETC..)
+
+Tableau recap
+ 
+
+
+Recap de sensi et speci d’un test :
+ 
+Ensuite on définit la sensi comme :
+Sensi = VP/(VP+FN) c’est donc la proba que le test accepte H0 si elle est vraie
+Speci = VN/(VN+FP) c’est donc la proba que le test accepte H1 si elle est vraie
+Ensuite on a la VPP et la VPN :
+VPP : valeur prédite positive = VP/(VP+FP) et c’est la probabilité que H0 soit vraie lorsque le test conclu à son acceptation
+VPN : valeur prédite négative = VN/(VN+FN) et c’est la probabilité que H0 soit fausse lorsque le test conclu à son acceptation
+
+Courbe ROC : 1-sensi = f(1-speci) = taux de faux positifs = f(taux de vrais positifs)
+Et FP = 1- sensi
+FN = 1 – recall
+

@@ -1,0 +1,8 @@
+# References {.unnumbered}
+
+::: {#refs}
+:::
+
+## TO CHECK HOW TO HANDLE/MANAGE CITATIONS
+
+\[1\] C. Biernacki, G. Celeux, and G. Govaert. Assessing a mixture model for clustering with the integrated completed likelihood. IEEE Trans. on PAMI, 22 :719--725, 2000. \[2\] G. Celeux and D. Diebolt. The SEM algorithm : a probabilistic teacher algorithm deri- ved from the em algorithm for the mixture problem. Computational Statistics Quarterly, 2(1) :73--82, 1985. \[3\] G. Celeux and G. Govaert. A Classification EM algorithm for clustering and two stochastic versions. Computational Statistics and Data Analysis, 14 :315--332, 1992. \[4\] A. P. Dempster, N. M. Laird, and D. B. Rubin. Maximum likelihood from incomplete data via the EM algorithm. Journal of the Royal Statistical Society Series B, 39 :1--38, 1977. \[5\] Philippe Michel. Polycopié de Statistique Exploratoire Multivariée, Année 1999-2000. Ecole Nationale de la Statistique et de l'Analyse de l'Information. \[6\] M. Nei. Genetic distance between populations. Am. Nat., 106 :283--292, 1972. \[7\] M. Nei. Estimation of average heterozygosity and genetic distance from a small number of individuals. Genetics, 89 :583--590, 1978. \[8\] A. Peaucelle, H. Morin, J. Traas, and P Laufs. Plants expressing a mir164 resistant cuc2 gene reveal the importance of post-meristematic maintenance of phyllotaxy in Arabidopsis. Development, 134 :1045--1050, 2007. \[9\] D. Reinhardt. Regulation of phyllotaxis. Int. J. Dev. Biol., 49 :539--546, 2005. \[10\] Y.C. Yao. Estimating th
