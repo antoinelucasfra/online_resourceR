@@ -1,0 +1,653 @@
+---
+title: "Untitled"
+format: html
+---
+
+| Category | URL |
+| --- | --- |
+| R Shiny | <https://github.com/MargotBr/awesome-rshiny> |
+| Video | <https://youtu.be/nfP-mGIsqVs> |
+| Docker | <https://thinkr.fr/dockeriser-application-shiny/> |
+| R Shiny | <https://www.r-bloggers.com/2019/02/deploying-an-r-shiny-app-with-docker/> |
+| Academic Paper | <https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.175> |
+| Book | <https://onlinelibrary.wiley.com/doi/book/10.1002/0470854200> |
+| PDF | <https://www.psiweb.org/docs/default-source/default-document-library/meta-analysis-course-notes.pdf?sfvrsn=38ffdedb_0> |
+| Personal Website | <https://gowerrobert.github.io/index.html> |
+| Personal Website | <https://dataresponsibly.github.io/> |
+| Organization Website | <http://www.mmds.org/> |
+| Blog | <https://rpsychologist.com/> |
+| Website | <https://mastering-shiny.org/> |
+| Cookbook | <http://www.cookbook-r.com/> |
+| Personal Website | <https://silviacanelon.com/> |
+| Blog | <https://www.katiejolly.io/blog/> |
+| Article | <https://easystats.github.io/bayestestR/articles/bayes_factors.html> |
+| Blog | <https://easystats.github.io/blog/> |
+| Website | <https://mtes-mct.github.io/parcours-r/> |
+| Website | <https://stt4230.rbind.io/> |
+| Article | <https://people.bath.ac.uk/jjf23/mixchange/nested.html#mcmcglmm> |
+| Mailing List | <https://stat.ethz.ch/pipermail/r-help/2014-April/373488.html> |
+| Blog | <https://rpsychologist.com/r-guide-longitudinal-lme-lmer> |
+| Collection | <https://peerj.com/collections/50-practicaldatascistats> |
+| Conference | <http://jms-insee.fr/programmejms2022/> |
+| Package | <https://jonocarroll.github.io/ggeasy/index.html> |
+| Package | <http://uribo.github.io/rpkg_showcase/graphics/timevis.html> |
+| Book | <https://statswithr.github.io/book/> |
+| Documentation | <https://buildmedia.readthedocs.org/media/pdf/a-little-book-of-r-for-bayesian-statistics/latest/a-little-book-of-r-for-bayesian-statistics.pdf> |
+| Documentation | <https://buildmedia.readthedocs.org/media/pdf/a-little-book-of-r-for-biomedical-statistics/latest/a-little-book-of-r-for-biomedical-statistics.pdf> |
+| Personal Website | <http://www.stat.columbia.edu/~gelman/> |
+| Twitter | <https://t.co/Atx1sVAb55> |
+| Article | <https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html> |
+| GitHub | <https://github.com/djnavarro> |
+| Personal Website | <https://dominiquemakowski.github.io/> |
+| Personal Website | <https://m-clark.github.io/> |
+| Blog | <https://easystats.github.io/blog/resources/> |
+| Article | <https://fabiandablander.com/r/Bayes-Potter.html> |
+| Book | <https://bookdown.org/yihui/rmarkdown-cookbook/> |
+| Blog | <http://mfviz.com/hierarchical-models/> |
+| Tool | <https://regexr.com/> |
+| Tool | <https://regex101.com/> |
+| Blog | <https://maraaverick.rbind.io/2017/09/r-workflow-fun/> |
+| Tool | <https://regex101.com/> |
+| PDF | <http://www-personal.umich.edu/~csev/books/py4inf/media/Py4Inf-11-Regex.pdf> |
+| Website | <https://www.college-de-france.fr/site/mathematiques-sciences-informatiques/index.htm> |
+| Challenge | <https://challengedata.ens.fr/participants/register> |
+| Program | <https://simons.berkeley.edu/programs/causality2022> |
+| Courses | <http://guide.berkeley.edu/courses/> |
+| Course | <https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans> |
+| Course | <https://www.udemy.com/course/deployment-of-machine-learning-models/> |
+| Course | <https://www.udemy.com/course/nlp-with-bert-in-python/> |
+| Course | <https://www.udemy.com/course/data-science-natural-language-processing-in-python/> |
+| Article | <https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html> |
+| Course | <http://introtodeeplearning.com/> |
+| Blog | <https://fastml.com/> |
+| Blog | <https://numfocus.org/blog> |
+| Blog | <https://medium.com/kaggle-blog> |
+| Gallery | <https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks> |
+| Article | <https://www.datagen.tech/10-promising-synthesis-papers-from-cvpr-2021/> |
+| Blog | <https://opendatascience.com/> |
+| Tutorial | <http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/td_2a.html> |
+| Courses | <https://stanford.edu/~shervine/l/fr/teaching/> |
+| Tutorial | <https://oliviergimenez.github.io/intro_rmarkdown/#68> |
+| Website | <https://datascienceineducation.com/index.html> |
+| Tutorial | <https://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html> |
+| Tutorial | <http://zoonek2.free.fr/UNIX/48_R_2004/08.html> |
+| Tutorial | <https://statisticsbyjim.com/hypothesis-testing/hypothesis-tests-significance-levels-alpha-p-values/> |
+| Tutorial | <http://www.thibault.laurent.free.fr/cours/R_intro/chapitre_4.html> |
+| Tutorial | <https://rafalab.github.io/dsbook/distributions.html> |
+| Resources | <https://abcdr.thinkr.fr/ressources/> |
+| GitHub | <https://github.com/pnavaro> |
+| Datasets | <https://www.stat4decision.com/fr/10-sites-pour-trouver-des-donnees-pour-modeles/> |
+| Course | <https://www.codecademy.com/learn/learn-python-3> |
+| Tutorial | <https://www.r-bloggers.com/2021/03/how-to-build-your-own-image-recognition-app-with-r-part-1/> |
+| Course | <https://computationalthinking.mit.edu/Fall20/lecture1/> |
+| Documentation | <https://bookdown.org/Rmadillo/likert/summary.html> |
+| Tutorial | <https://moderndive.com/> |
+| Tutorial | <http://sia.webpopix.org/mixtureModels.html> |
+| Blog | <https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday?fbclid=IwAR2pY1R2HizLjs502hdqS5txviHvQpv85cWbPPGy3SnZ5q0R1DCFsGoKGKY> |
+| Tutorial | <https://www.r-bloggers.com/2017/02/an-intro-to-gaussian-mixture-modeling/> |
+| Views | <https://cran.r-project.org/web/views/> |
+| People | <https://rmisstastic.netlify.app/people/> |
+| Thesis | <https://abichat.github.io/thesis/> |
+| Talks | <https://www.stat.auckland.ac.nz/~paul/Talks/> |
+| Blog | <http://varianceexplained.org/> |
+| Blog | <https://simplystatistics.org> |
+| Tutorial | <https://stt4230.rbind.io/> |
+| Tutorial | <https://statisticsglobe.com/r-programming-language> |
+| Platform | <https://deepai.org/developers> |
+| Tutorial | <https://www.analyticsvidhya.com/blog/2020/11/understanding-naive-bayes-svm-and-its-implementation-on-spam-sms/> |
+| Exams | <https://www.confetti.ai/exams> |
+| Tutorial | <https://bookdown.org/Rmadillo/likert/summary.html> |
+| Blog | <https://www.cradletograver.com/categories/random-r/> |
+| Tutorial | <https://www.r-bloggers.com/2018/08/structuring-r-projects/> |
+| Code | <https://r-stat-sc-donnees.github.io/code_html/code.html> |
+| Book | <https://www.bigbookofr.com/> |
+| Tutorial | <https://www.comet.ml/site/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis/> |
+| Cheat Sheets | <https://pythonforbiologists.com/29-common-beginner-errors-on-one-page/> |
+| Tutorial | <https://www.pythonfromtheverybeginning.com/> |
+| Cheat Sheets | <https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/> |
+| Tutorial | <https://www.comet.ml/site/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis/> |
+| Tutorial | <https://automatetheboringstuff.com/2e/> |
+| Free Python Books | <https://www.pythonkitchen.com/legally-free-python-books-list/> |
+| Blog | <https://jvns.ca/> |
+| Tutorial | <http://wavedatalab.github.io/datawithpython/> |
+| Book | <https://www.oreilly.com/library/view/python-for-data/9781449323592/> |
+| Book | <https://www.oreilly.com/library/view/python-data-science/9781491912126/> |
+| Book | <https://www.amazon.com/gp/product/1491962291/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=quantpytho-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491962291&linkId=e1818e0c5c578f9fc0b487a70f3f4266> |
+| Personal Website | <https://wesmckinney.com/> |
+| Book | <https://jakevdp.github.io/PythonDataScienceHandbook/> |
+| Personal Website | <https://mwaskom.github.io/> |
+| Video | <https://youtu.be/8DvywoWv6fI> |
+| Tutorial | <https://www.pylenin.com/blogs/python-string-formatting/> |
+| Blog | <https://blog.crossminds.ai/post/10-ai-books-to-read-in-2021-machine-learning-researchers-engineers> |
+| Library | <https://github.com/PySimpleGUI/PySimpleGUI> |
+| Cheat Sheet | <https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html> |
+| Tool | <https://github.com/DarshanDeshpande/Scrapera> |
+| Tutorial | <https://www.freecodecamp.org/news/how-to-use-branches-in-git/> |
+| Tips | <https://medium.com/pythonland/30-python-language-tricks-that-will-make-you-a-better-coder-f08f811a7b0f> |
+| Tool | <https://github.com/anish-lakkapragada/SeaLion> |
+| Tutorial | <https://github.com/aaronwangy/Data-Science-Cheatsheet> |
+| Library | <https://github.com/ageron/awesome-tensorflow> |
+| Tutorial | <https://www.conorjohanlon.com/web-scraping-with-python-using-ebay-as-an-example/> |
+| Tutorial | <https://camtsmith.com/articles/2021-02/how-to-build-ml-app-from-scratch> |
+| Tool | <https://github.com/adamerose/PandasGUI> |
+| Tool | <https://github.com/camillecochener/MachineLearning-and-DeepLearning-Cheatsheets> |
+| Tool | <https://github.com/anish-lakkapragada/SeaLion> |
+| Discussion | <https://www.reddit.com/r/learnpython/comments/lez7lg/finally_deployed_a_model_to_production_it_only/> |
+| Paper | <https://arxiv.org/abs/1406.2661> |
+| Paper | <https://arxiv.org/abs/1806.07755> |
+| Tool | <https://www.makeareadme.com/> |
+| Tool | <https://rahuldkjain.github.io/gh-profile-readme-generator/> |
+| Repository | <https://github.com/TheAlgorithms> |
+| Tutorial | <https://towardsdatascience.com/visualization-with-plotly-express-comprehensive-guide-eb5ee4b50b57> |
+| Video Series | <https://www.youtube.com/playlist?list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57> |
+| Course | <http://mlcollective.org/dlct/> |
+| Website | <https://www.trustworthyml.org/> |
+| Website | <http://www.physicsmeetsml.org/> |
+| Website | <https://www.cc.gatech.edu/~parikh/humanstoriesai/> |
+| Website | <https://nlp.stanford.edu/seminar/> |
+| Website | <https://www.vanderschaar-lab.com/engagement-sessions/inspiration-exchange/> |
+| Website | <https://www.broadinstitute.org/talks/fall-2020/mia> |
+| Talk | <https://talks.cam.ac.uk/show/index/113458> |
+| Website | <https://sites.google.com/lisa.iro.umontreal.ca/tea-talks/home?authuser=0> |
+| Paper | <https://arxiv.org/abs/2010.11929> |
+| Book | <https://www.pdfdrive.com/le-logiciel-r-ma%C3%AEtriser-le-langage-effectuer-des-analyses-statistiques-e156638014.html> |
+| Documentation | <https://docs.ropensci.org/drake/index.html> |
+| Personal Website | <https://jennybryan.org> |
+| Organization | <https://ropensci.org/> |
+| Talk | <https://speakerdeck.com/jennybc/code-smells-and-feels?slide=2> |
+| Talk | <https://speakerdeck.com/jennybc/zen-and-the-art-of-workflow-maintenance> |
+| Website | <https://solutions.rstudio.com/python/overview/> |
+| Webinar | <https://rstudio.com/resources/webinars/r-python-in-rstudio-1-2-with-reticulate/> |
+| Tutorial | <https://rtask.thinkr.fr/> |
+| Tutorial | <https://rtask.thinkr.fr/fr/notre-template-shiny-pour-concevoir-une-appli-prod-ready/> |
+| Tutorial | <https://rtask.thinkr.fr/fr/developper-une-app-shiny-dans-un-package/> |
+| Book | <https://mastering-shiny.org/> |
+| Tutorial | <https://laderast.github.io/gradual_shiny/> |
+| Documentation | <https://shiny.rstudio.com/articles/> |
+| Documentation | <https://shiny.rstudio.com/articles/layout-guide.html> |
+| Documentation | <https://shiny.rstudio.com/articles/shiny.html> |
+| Gallery | <https://shiny.rstudio.com/gallery/> |
+| Gallery | <https://shiny.rstudio.com/gallery/widget-gallery.html> |
+| Documentation | <https://rmarkdown.rstudio.com/flexdashboard/> |
+| Documentation | <http://rstudio.github.io/shinydashboard/> |
+| Book | <https://kellobri.github.io/shiny-prod-book/> |
+| Tutorial | <https://thinkr-open.github.io/building-shiny-apps-workflow/> |
+| Package | <https://thinkr-open.github.io/golem/> |
+| Tutorial | <https://rtask.thinkr.fr/fr/demarrer-avec-golem/> |
+| Video | <https://www.youtube.com/watch?v=OU1-CkSVdTI&t=1356s> |
+| Example | <https://github.com/ColinFay/golemexample> |
+| Website | <https://engineering-shiny.org/> |
+| Documentation | <https://docs.rstudio.com/shiny-server/#application-error-logs> |
+| Article | <https://support.rstudio.com/hc/en-us/articles/231249288-Why-does-my-app-work-locally-but-not-on-my-Shiny-Server-> |
+| Discussion | <https://community.rstudio.com/t/output-served-by-shiny-server-does-not-display-on-laptop/23530/4> |
+| Issue | <https://github.com/rstudio/shiny/issues/260#event-129544469> |
+| Discussion | <https://groups.google.com/forum/m/#!topic/shiny-discuss/cGbnVQbutLI> |
+| Paper | <https://journals.plos.one/pl/article?id=10.1371/journal.pone.0061217> |
+| Paper | <https://academic.oup.com/bioinformatics/article/31/2/282/2365643> |
+| Package | <https://github.com/joey711/shiny-phyloseq> |
+| Documentation | <https://rmarkdown.rstudio.com/flexdashboard/> |
+| Documentation | <http://rstudio.github.io/shinydashboard/> |
+| Library | <https://plot.ly/ggplot2/> |
+| Book | <https://kellobri.github.io/shiny-prod-book/> |
+| Website | <http://golemverse.org/> |
+| Tutorial | <https://thinkr-open.github.io/building-shiny-apps-workflow/> |
+| Package | <https://thinkr-open.github.io/golem/> |
+| Tutorial | <https://rtask.thinkr.fr/fr/demarrer-avec-golem/> |
+| Video | <https://www.youtube.com/watch?v=OU1-CkSVdTI&t=1356s> |
+| Video | <https://www.youtube.com/watch?v=6qI4NzxlAFU&feature=youtu.be> |
+| Example | <https://github.com/ColinFay/golemexample> |
+| Blog | <https://deanattali.com/blog/advanced-shiny-tips/> |
+| Package | <https://deanattali.com/shinyjs/overview#demo> |
+| Gallery | <http://www.htmlwidgets.org/showcase_plotly.html> |
+| Paper | <https://academic.oup.com/nar/article/46/6/2777/4909991> |
+| Tutorial | <http://emilkirkegaard.dk/understanding_statistics/> |
+| Tutorial | <https://www.graphpad.com/support/faqid/1790/> |
+| Tutorial | <https://statistique-et-logiciel-r.com/introduction-aux-glm/> |
+| Tutorial | <http://statsoft.fr/concepts-statistiques/test-non-parametriques/test-non-parametriques.htm#.XXXwwygzZaQ> |
+| Tutorial | <https://www.statisticshowto.datasciencecentral.com/parametric-and-non-parametric-data/> |
+| Tutorial | <https://help.xlstat.com/s/article/guide-de-choix-de-test-statistique?language=fr> |
+| Blog | <https://dcauseur.netlify.app/index.html> |
+| Personal Website | <http://emily.perso.math.cnrs.fr/Mathieu_EMILYs_homepage/Home.html> |
+| Personal Website | <https://marieetienne.github.io/> |
+| Personal Website | <https://pro.institut-agro-rennes-angers.fr/fr/magalie-houee-bigot> |
+| Personal Website | <https://husson.github.io/> |
+| Package | <https://edwinth.github.io/padr/articles/padr.html> |
+| Blog | <https://msragi.com/> |
+| Project | <https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/> |
+| Blog | <https://nrennie.rbind.io/categories/r/> |
+| Website | <http://bayes.cs.ucla.edu/WHY/> |
+| Tool | <https://espanso.org> |
+| Blog | <https://bozenne.github.io/> |
+| Tool | <https://sled.rs/perf> |
+| Blog | <https://statomics.github.io/> |
+| Website | <https://www.shinyproxy.io/> |
+| Blog | <https://www.christophenicault.com/post/understand_size_dimension_ggplot2/> |
+| Tutorial | <https://github.com/mine-cetinkaya-rundel/hello-quarto-demo> |
+| Blog | <https://art-from-code.netlify.app/> |
+| Blog | <https://blog.djnavarro.net/> |
+| Article | <https://yury-zablotski.netlify.app/post/mixed-effects-models-2/> |
+| Talk | <https://rstudio.github.io/rstudio-conf/2022/nicholastierney/The%20Future%20of%20NA%20Data.pdf> |
+| Talk | <https://beamilz.com/talks/en/2022-rstudio-conf/> |
+| Talk | <https://meghan.rbind.io/talk/rstudioconf/> |
+| Video | <https://www.youtube.com/watch?v=oOKJLMAkEiw> |
+| Tutorial | <https://github.com/schloerke/presentation-2022-07-28-rstudioconf22-shinytest2> |
+| Talk | <https://github.com/rstudio/rstudio-conf/blob/master/2022/davidsmith/Zero%20Setup%20Workshops%20RStudioConf%202022%20-%20David%20Smith.pdf> |
+| Talk | <https://github.com/rstudio/rstudio-conf/blob/master/2022/andreashofheinz/leafdown_presentation%20-%20Andreas%20H.pdf> |
+| Talk | <https://nrennie.rbind.io/talks/2022-july-rstudio-conf/> |
+| Talk | <https://github.com/rstudio/rstudio-conf/blob/master/2022/colingillespie/2022-07-27_rstudio-conf%20-%20Colin%20Gillespie.pdf> |
+| Talk | <https://github.com/rstudio/rstudio-conf/blob/master/2022/josiahparry/rstudio__conf(2022L)%20-%20Josiah%20Parry.pdf> |
+| Talk | <https://rconf-2022-caro-buck.netlify.app/#/section> |
+| Talk | <https://jnolis.com/presentations/general/Nolis%20-%20Ecommerce%20Shiny%20-%20ggirl.pdf> |
+| Tool | <https://github.com/hoga-it/leafdown> |
+| Personal Website | <https://nickstrayer.me/#About> |
+| Blog | <https://maya.rbind.io/> |
+| Book | <https://stefvanbuuren.name/fimd/> |
+| Tutorial | <https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-2-40> |
+| Conference | <https://conf.shinyinproduction.com/> |
+| Blog | <https://explainable.ai/blog> |
+| Personal Website | <https://antoine77340.github.io/> |
+| Personal Website | <https://antoyang.github.io/> |
+| Personal Website | <https://www.di.ens.fr/~laptev/> |
+| Personal Website | <https://www.di.ens.fr/~josef/> |
+| Lab | <https://www.di.ens.fr/willow/> |
+| Master's Program | <https://www.master-mva.com/> |
+| Master's Program | <https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-mathematiques-vision-apprentissage> |
+| Blog | <https://learnopencv.com/about/> |
+| Reading Group | <https://reading-paper.loreal.com/> |
+| Paper | <https://zpdesu.github.io/Barbershop/Barbershop.pdf> |
+| Paper | <https://arxiv.org/abs/2010.11929> |
+| Paper | <https://arxiv.org/abs/1706.03762> |
+| Paper | <https://arxiv.org/abs/2007.06570> |
+| Video Series | <https://www.youtube.com/watch?v=HskbLn212-8&list=PLCOlyo7OBQvtzOda3jJLgq3RmXK9hYPKi> |
+| Paper | <https://arxiv.org/pdf/2104.00673.pdf> |
+| Paper | <https://arxiv.org/abs/1603.06560> |
+| Paper | <https://arxiv.org/pdf/1707.07435.pdf> |
+| Paper | <https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0874-0> |
+| Project | <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7861304/> |
+| Project | <https://github.com/frrrenchies/frrrenchies> |
+| Project | <https://python-charts.com/> |
+| Views | <https://cran.r-project.org/web/views/MixedModels.html> |
+| Tutorial | <https://bea.stollnitz.com/blog/vscode-ml-project/> |
+| Tutorial | <https://stanford.edu/~shervine/teaching/> |
+| Blog | <https://allisonhorst.com/> |
+| Project | <https://aiart.dev/posts/sd-music-videos/sd_music_videos.html> |
+| Blog | <https://cedricbatailler.me/> |
+| Tool | <https://github.com/analythium/deps> |
+| Blog | <https://elevanth.org/blog/2021/06/15/regression-fire-and-dangerous-things-1-3/> |
+| Tutorial | <https://eliocamp.github.io/reproducibility-with-r/about/> |
+| Tutorial | <https://towardsdev.com/how-to-build-a-professional-r-shiny-app-part-1-856bd445d6db> |
+| Book | <https://www.oreilly.com/library/view/machine-learning-for/9781098102425/> |
+| Blog | <https://data.nozav.org/> |
+| Blog | <https://rinpharma.com/> |
+| Documentation | <https://mc-stan.org/posterior/articles/rvar.html> |
+| Blog | <https://milesmcbain.micro.blog/2022/10/18/are-you-data.html> |
+| Paper | <https://www.nature.com/articles/s41591-022-01768-5?utm_content=buffer9d00c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer> |
+| Talks | <https://github.com/rstudio/rstudio-conf/blob/master/2022/README.md#keynotes-and-talks> |
+| Tutorial | <https://www.r-bloggers.com/2022/10/automating-dockerfile-creation-for-shiny-apps/> |
+| Blog | <https://linogaliana.netlify.app/> |
+| Tutorial | <https://happygitwithr.com/> |
+| Tutorial | <https://blog.devgenius.io/a-bayesian-network-in-r-4c2d2df89cc8> |
+| Examples | <https://github.com/r-lib/actions/tree/v2-branch/examples> |
+| Blog | <https://karbartolome.quarto.pub/the-grammar-of-tables/> |
+| Blog | <https://www.rstudio.com/blog/translating-shiny-apps-for-international-audiences> |
+| Tool | <https://whatthediff.ai/> |
+| Discussion | <https://stackoverflow.com/questions/63944953/how-to-conditionally-format-a-cell-in-a-gt-table-based-on-the-value-of-the-cel> |
+| Documentation | <https://rlang.r-lib.org/reference/topic-data-mask.html> |
+| Documentation | <https://rlang.r-lib.org/reference/topic-data-mask-programming.html> |
+| Blog | <https://quarto.org/docs/blog/posts/2022-10-25-shinylive-extension/> |
+| Tool | <https://www.explainpaper.com/> |
+| Blog | <https://mickael.canouil.fr/posts/> |
+| Blog | <https://cedricbatailler.me/blog/2022-apero/> |
+| Blog | <https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/> |
+| Blog | <https://cosimameyer.com/post/2022-10-10-great-rstudio-shortcuts/> |
+| Blog | <https://drmowinckels.github.io/quartaki/> |
+| GitHub | <https://github.com/jhelvy> |
+| Paper | <https://openreview.net/forum?id=KSugKcbNf9> |
+| Cheat Sheet | <https://github.com/claragranell/ggplot2/blob/main/ggplot_theme_system_cheatsheet.pdf> |
+| Book | <https://probml.github.io/pml-book/> |
+| Tutorial | <https://mlu-explain.github.io/random-forest/> |
+| Book | <https://book.rwithoutstatistics.com/> |
+| Tool | <https://speedsheet.io/s/python> |
+| Search Engine | <https://r-universe.dev/search/> |
+| Gallery | <https://plotnine.readthedocs.io/en/stable/gallery.html> |
+| Search Engine | <https://r-universe.dev/search/> |
+| Tutorial | <https://www.peterbaumgartner.com/blog/testing-for-data-science/> |
+| Extensions | <https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/> |
+| Paper | <https://www.sciencedirect.com/science/article/abs/pii/S0950329322000568?dgcid=author> |
+| Conference | <http://snb2022.paris/SC.aspx> |
+| Paper | <https://arxiv.org/abs/2203.13131> |
+| Tutorial | <https://rfortherestofus.com/2020/10/parameterized-reporting-with-rmarkdown/> |
+| Package | <https://vetiver.tidymodels.org/dev/> |
+| Tutorial | <https://ycsun2017.github.io/> |
+| Documentation | <https://github.com/ThinkR-open/golem/wiki> |
+| Article | <https://www.inria.fr/fr/comment-eviter-discrimination-donnees-utilisateurs-publicite-fairplay-criteo> |
+| Project | <https://github.com/henrycharlesworth/settlers_of_catan_RL> |
+| Course | <https://ubc-dsci.github.io/reproducible-and-trustworthy-workflows-for-data-science/README.html> |
+| Blog | <https://oliviergimenez.github.io/hmm-cr-nimble-isec2022-workshop/> |
+| Blog | <https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/> |
+| Course | <https://christianb.gumroad.com/l/tidyverse-booster> |
+| Tutorial | <https://datasciencesection.org/2022/07/03/july-newsletter-3/> |
+| Tutorial | <https://rfortherestofus.com/2022/07/align-axes/> |
+| Tutorial | <https://do4ds.com/chapters/sec1/docker.html> |
+| Tutorial | <https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html> |
+| Repository | <https://hal.archives-ouvertes.fr/hal-03723551> |
+| Blog | <https://www.openscapes.org/blog/2022/07/21/quarto-migrate/> |
+| Icons | <https://bioicons.com/> |
+| Documentation | <https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/> |
+| Package | <https://cran.r-project.org/web/packages/shinydlplot/index.html> |
+| Package | <https://fable.tidyverts.org/> |
+| Package | <https://business-science.github.io/modeltime/> |
+| Job Posting | <https://quantiq.io/jobs/internship-in-medical-deep-learning> |
+| Book | <https://otexts.com/fpp3/intro.html> |
+| Tutorial | <https://ali-design.github.io/deepcreativity/> |
+| Tutorial | <https://huggingface.co/blog/sentiment-analysis-twitter> |
+| Blog | <https://tmramalho.github.io/> |
+| Blog | <https://12ft.io/> |
+| News | <https://www.crick.ac.uk/news/2022-07-06_the-francis-crick-institute-and-deepmind-join-forces-to-apply-machine-learning-to-biology> |
+| Blog | <https://www.math3ma.com/> |
+| Conference | <https://www.rstudio.com/conference/2022/schedule/> |
+| Blog | <https://www.natolambert.com/writing/ai-phd-job-hunt> |
+| Tool | <https://clipasso.github.io/clipasso/> |
+| Book | <https://books.ropensci.org/targets/walkthrough.html> |
+| Blog | <https://jollydata.blog/posts/2022-06-12-when-not-in-rome/when-not-in-rome.html> |
+| Package | <https://github.com/schochastics/quarto-schochastics> |
+| Tutorial | <https://do4ds.com/chapters/sec1/docker.html> |
+| Talk | <https://www.harsh17.in/talk/> |
+| Tutorial | <https://github.com/AlbertRapp/quarto_bottomup_blog> |
+| Repository | <https://osf.io/cdqub/> |
+| Tutorial | <https://hosting.analythium.io/containerizing-interactive-r-markdown-documents/#multi-stage-build-with-the-openfaas-watchdog> |
+| Tutorial | <https://www.khstats.com/blog/trt-timelines/multiple-vars> |
+| Article | <https://medium.com/data-from-the-trenches/graphical-neural-networks-link-prediction-part-ii-c60f6d97fd97> |
+| Paper | <https://papers.labml.ai/paper/063dc7ec6d1111ec905035ac8856fc87> |
+| Tutorial | <https://github.com/RamiKrispin/deploy-flex-actions> |
+| Blog | <https://www.natolambert.com/writing/ai-phd-job-hunt> |
+| Talks | <https://colinfay.me/talks-publications/> |
+| Course | <https://web.stanford.edu/class/cs25/> |
+| Blog | <https://jimimvp.github.io/> |
+| Tool | <https://github.com/PAIR-code/facets> |
+| Blog | <https://www.r-bloggers.com/2022/07/modeldown-automate-explainable-ai-machine-learning-in-r/> |
+| Theme | <https://github.com/hugo-apero/hugo-apero> |
+| Themes | <https://prettydoc.statr.me/themes.html> |
+| Tool | <https://ashbaldry.github.io/designer> |
+Sure, here is the table with the category column on the left of the URL:
+
+| Category | URL |
+| --- | --- |
+| R programming | <https://hbiostat.org/rflow/> |
+| Statistical analysis | <https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower> |
+| Statistical inferences | <https://lakens.github.io/statistical_inferences/index.html> |
+| Coding tutorials | <https://fr.futurecoder.io/> |
+| Machine learning | <https://argmax.ghost.io/> |
+| Data science | <https://ymansiaux-data.netlify.app/blog/> |
+| Linear mixed models | <https://www.routledge.com/Linear-Mixed-Models-A-Practical-Guide-Using-Statistical-Software/West-Welch-Galecki/p/book/9781032019321> |
+| Machine learning research | <https://distill.pub/> |
+| Ethical operating system | <https://ethicalos.org/> |
+| Statistics and health | <http://gdr-stat-sante.math.cnrs.fr/spip/spip.php?article129> |
+| Machine learning notebooks | <https://github.com/dair-ai/ML-Notebooks> |
+| Deep learning course | <https://arthurdouillard.com/deepcourse/> |
+| Machine learning | <https://threadreaderapp.com/thread/1550220071649259521.html> |
+| R programming | <https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/> |
+| Data visualization | <https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/posts/21-diagrams/> |
+| R programming | <https://www.infoworld.com/article/3667496/12-ggplot-extensions-for-snazzier-r-graphics.html> |
+| Machine learning course | <https://course.fast.ai/> |
+| R programming | <https://hosting.analythium.io/containerizing-interactive-r-markdown-documents/> |
+| Transformers | <https://dair-ai.notion.site/Introduction-to-Transformers-4b869c9595b74f72b088e5f2793ece80> |
+| Data science | <https://desiree.rbind.io/about/> |
+| GitHub tutorial | <https://www.openscapes.org/blog/2022/05/27/github-illustrated-series/> |
+| R programming | <https://thinkr.fr/deploiement-dune-application-shiny-dans-docker-avec-renv-et-golem/?utm_source=dlvr.it&utm_medium=twitter> |
+| R programming | <https://fastverse.r-universe.dev/ui#packages> |
+| Environmental data | <https://mikemahoney218.github.io/2022-07-22_esip/2022-07-22_esip.html#/section> |
+| GitHub Actions | <https://beamilz.com/posts/series-gha/2022-07-28-github-actions-rstudio/en/> |
+| R programming | <https://nick.quarto.pub/rstudioconf2022/> |
+| Data science | <https://tmb.njtierney.com/> |
+| Job posting | <https://apply.workable.com/huggingface/j/A45A99EA5E/> |
+| GitHub tutorial | <https://rtask.thinkr.fr/download-gitlab-or-github-issues-and-make-a-summary-report-of-your-commits/?utm_source=dlvr.it&utm_medium=twitter> |
+| Dashboard builder | <https://github.com/petergandenberger/dashboard-builder> |
+| MLOps | <https://github.com/isabelizimm/rstudioconf2022-mlops> |
+| Creative coding | <https://art-from-code.netlify.app/> |
+| AI discussion | <https://www.nature.com/articles/s41562-022-01464-x?utm_source=twitter&utm_medium=social&utm_campaign=nathumbehav> |
+| R programming | <https://github.com/jlevy/the-art-of-command-line/blob/master/README-fr.md> |
+| Git tutorial | <https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/> |
+| Machine learning | <http://snap.stanford.edu/graphlearning-workshop-2022/> |
+| R programming | <https://gt.albert-rapp.de/> |
+| Video course | <https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r> |
+| AI discussion | <https://twitter.com/marktenenholtz/status/1511312726923964421?s=20&t=qFrbF1hlfZcc5gElrfCXaw> |
+| R programming | <https://timteafan.github.io/loopurrr/> |
+| Startup tools | <https://twitter.com/heyeaslo/status/1487607754692956166?s=20&t=qFrbF1hlfZcc5gElrfCXaw> |
+| Startup tools | <https://twitter.com/heyeaslo/status/1505725893674627075?s=20&t=qFrbF1hlfZcc5gElrfCXaw> |
+| AI discussion | <https://twitter.com/ChristophMolnar/status/1504449282073677824?s=20&t=qFrbF1hlfZcc5gElrfCXaw> |
+| AI discussion | <https://twitter.com/marktenenholtz/status/1501905740813848582?s=20&t=qFrbF1hlfZcc5gElrfCXaw> |
+| Meta analysis | <https://statmodeling.stat.columbia.edu/2022/02/28/priors-for-meta-analysis/> |
+| Shiny app | <https://github.com/jiwanheo/senTWEETment> |
+| AI discussion | <https://betaandbit.github.io/RML/> |
+| Article | <https://psyarxiv.com/dnr9s/> |
+| Article | <https://psyarxiv.com/9pjx5/> |
+| quarto | <https://ucsb-meds.github.io/creating-quarto-websites/> |
+| R programming | <https://about.gitlab.com/handbook/business-technology/data-team/> |
+| Video | <https://youtu.be/NFo9v_yKQXA> |
+| Machine learning | <https://the-turing-way.netlify.app/welcome.html> |
+| R programming | <https://github.com/EmilHvitfeldt/quarto-designmode> |
+| Machine learning research | <https://arxiv.org/abs/2211.0200> |
+| R programming | <https://hughjonesd.shinyapps.io/rcheology/> |
+| Data visualization | <https://github.com/cj-holmes/flow-field-art> |
+| Machine learning research | <https://www.nature.com/articles/s41562-022-01464-x?utm_source=twitter&utm_medium=social&utm_campaign=nathumbehav> |
+| R programming | <https://github.com/jlevy/the-art-of-command-line/blob/master/README-fr.md> |
+| Git tutorial | <https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/> |
+| Machine learning | <http://snap.stanford.edu/graphlearning-workshop-2022/> |
+| R programming | <https://gt.albert-rapp.de/> |
+| Video course | <https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r> |
+| AI discussion | <https://twitter.com/marktenenholtz/status/1511312726923964421?s=20&t=qFrbF1hlfZcc5gElrfCXaw> |
+| R programming | <https://timteafan.github.io/loopurrr/> |
+| Startup tools | <https://twitter.com/heyeaslo/status/1487607754692956166?s=20&t=qFrbF1hlfZcc5gElrfCXaw> |
+| Startup tools | <https://twitter.com/heyeaslo/status/1505725893674627075?s=20&t=qFrbF1hlfZcc5gElrfCXaw> |
+| AI discussion | <https://twitter.com/ChristophMolnar/status/1504449282073677824?s=20&t=qFrbF1hlfZcc5gElrfCXaw> |
+| AI discussion | <https://twitter.com/marktenenholtz/status/1501905740813848582?s=20&t=qFrbF1hlfZcc5gElrfCXaw> |
+| Meta analysis | <https://statmodeling.stat.columbia.edu/2022/02/28/priors-for-meta-analysis/> |
+| Shiny app | <https://github.com/jiwanheo/senTWEETment> |
+| AI discussion | <https://betaandbit.github.io/RML/> |
+| Article | <https://psyarxiv.com/dnr9s/> |
+| Article | <https://psyarxiv.com/9pjx5/> |
+| quarto | <https://ucsb-meds.github.io/creating-quarto-websites/> |
+| R programming | <https://about.gitlab.com/handbook/business-technology/data-team/> |
+| Video | <https://youtu.be/NFo9v_yKQXA> |
+| Machine learning | <https://the-turing-way.netlify.app/welcome.html> |
+| R programming | <https://github.com/EmilHvitfeldt/quarto-designmode> |
+| Machine learning research | <https://arxiv.org/abs/2211.0200> |
+| R programming | <https://hughjonesd.shinyapps.io/rcheology/> |
+| Data visualization | <https://github.com/cj-holmes/flow-field-art> |
+| Machine learning research | <https://www.nature.com/articles/s41562-022-01464-x?utm_source=twitter&utm_medium=social&utm_campaign=nathumbehav> |
+| R programming | <https://github.com/jlevy> |
+| Description | URL |
+| --- | --- |
+| The Art of Command Line (French) | <https://github.com/jlevy/the-art-of-command-line/blob/master/README-fr.md> |
+| How to Undo Almost Anything with Git | <https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/> |
+| Graph Learning Workshop 2022 | <http://snap.stanford.edu/graphlearning-workshop-2022/> |
+| GT | <https://gt.albert-rapp.de/> |
+| YouTube Video | <https://youtu.be/vO_Wn2tgIck> |
+| KaggleDays Paris 2022 | <https://github.com/jfpuget/KaggleDays_Paris_2022> |
+| rOpenSci | <https://ropensci.org/> |
+| Blog Post | <https://www.brodrigues.co/blog/2022-11-19-raps/> |
+| Presentations | <https://sites.google.com/site/indrajeetspatilmorality/presentations> |
+| Comment ne pas être perdu avec VSCode quand on vient de RStudio | <https://statnmap.com/fr/2021-10-09-comment-ne-pas-etre-perdu-avec-vscode-quand-on-vient-de-rstudio/> |
+| LajeunesseLab Quick Switchboard Simulations | <http://lajeunesse.myweb.usf.edu/switchboard/LajeunesseLab_quick_switchboard_simulations.html> |
+| Text-based Inpainting | <https://huggingface.co/spaces/nielsr/text-based-inpainting> |
+| Shiny in Production Highlights | <https://www.jumpingrivers.com/blog/shiny-in-production-highlights/> |
+| Open Science for Health Data: Applying the scikit-learn recipe | <https://speakerdeck.com/gaelvaroquaux/open-science-for-health-data-applying-the-scikit-learn-recipe> |
+| Causal Inference Course | <https://www.bradyneal.com/causal-inference-course> |
+| NVIDIA PCQM4Mv2 Transformer Model | <https://github.com/jfpuget/NVIDIA-PCQM4Mv2/tree/main/TransformerM#readme> |
+| rSelenium Teaching | <https://www.rselenium-teaching.etiennebacher.com/#/title-slide> |
+| About | <https://michaelmccarthy.tidytales.ca/about/> |
+| DRY R Package Development | <https://indrajeetpatil.github.io/dry-r-package-development/#/dry-package-development-in-r> |
+| Human Compatible AI | <https://humancompatible.ai/> |
+| AFIA | <https://afia.asso.fr/p> |
+| TensorFlow Playground | <https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.38845&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false> |
+| ath-quarto | <https://github.com/andrewheiss/ath-quarto> |
+| Nuggets | <https://codyhouse.co/nuggets> |
+| Awesome R PKGTools | <https://indrajeetpatil.github.io/awesome-r-pkgtools/> |
+| BayesiaLab Knowledge Hub | <https://library.bayesia.com/articles/#!bayesialab-knowledge-hub/webinars-seminars-case-studies-the-book-of-why> |
+| Quarto Iframe Examples | <https://emilhvitfeldt.github.io/quarto-iframe-examples/#/section-13> |
+| Ella Kaye | <https://ellakaye.co.uk/> |
+| tibblify | <https://mgirlich.github.io/tibblify/> |
+| Evaluer la protection de votre navigateur | <https://linc.cnil.fr/fr/evaluer-la-protection-de-votre-navigateur-au-moyen-de-lextension-cookieviz> |
+| arXiv:2211.09110 | <https://arxiv.org/abs/2211.09110> |
+| RCrashCourse: 4\_regex | <https://colauttilab.github.io/RCrashCourse/4_regex.html> |
+| Quarto vs RMarkdown Comparison | <https://www.jumpingrivers.com/blog/quarto-rmarkdown-comparison/> |
+| ASCII Math | <https://plantuml.com/fr/ascii-math> |
+| Quarto Blog Writing Guide | <https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html> |
+| Riffusion | <https://www.riffusion.com/about> |
+| Pythia | <https://github.com/EleutherAI/pythia> |
+| arXiv:2208.07614 | <https://arxiv.org/abs/2208.07614> |
+| DRY R Package Development: Plan | <https://indrajeetpatil.github.io/dry-r-package-development/#/plan> |
+| Regression Fire and Dangerous Things | <https://elevanth.org/blog/2021/06/15/regression-fire-and-dangerous-things-1-3/> |
+| Dynalist | <https://dynalist.io/d/n2ZWtnoYHrU1s4vnFSAQ519J> |
+| Stacks | <https://johnbedwards.io/blog/stacks/> |
+| GPTstudio | <https://github.com/MichelNivard/GPTstudio> |
+| gpttools | <https://github.com/JamesHWade/gpttools> |
+| Optimizing Gradient Descent | <https://ruder.io/optimizing-gradient-descent/> |
+| Unleash Shiny | <https://unleash-shiny.rinterface.com/index.html> |
+| A Quick Intro to Infectious Disease Modeling in R for Beginners | <https://medium.com/@gspmalloy/a-quick-intro-to-infectious-disease-modeling-in-r-for-beginners-5f4dbdf68e9e> |
+| 2022 in Review: NeuroAI Comes of Age | <https://xcorr.net/2023/01/01/2022-in-review-neuroai-comes-of-age/> |
+| ggcharts | <https://thomas-neitmann.github.io/ggcharts/index.html> |
+| Intro to GraphML | <https://huggingface.co/blog/intro-graphml> |
+| Bayesian Spectacles | <https://www.bayesianspectacles.org/> |
+| EvalSP23 | <https://evalsp23.classes.andrewheiss.com/> |
+| Best Practices for Quarto Documents | <https://isaac-flath.tech/posts/other/quartodocumentsbestpractices> |
+| pudding.cool | <https://pudding.cool/> |
+| JHU Stat Computing 2022 Schedule | <https://www.stephaniehicks.com/jhustatcomputing2022/schedule> |
+| JHU Stat Programming 2022 Schedule | <https://www.stephaniehicks.com/jhustatprogramming2022/schedule> |
+| Implementing RLHF: Learning to Summarize with trlX | <https://wandb.ai/carperai/summarize_RLHF/reports/Implementing-RLHF-Learning-to-Summarize-with-trlX--VmlldzozMzAwODM2> |
+| Domaine de validité et confiance en IA | <https://www.quantmetry.com/blog/domaine-de-validite-ia-confiance/> |
+| Geocompx | <https://geocompx.org/> |
+| Make VSCode Awesome | <https://makevscodeawesome.com/> |
+| Substrait | <https://voltrondata.com/resources/12-open-source-projects-to-watch-2023?utm_source=twitter&utm_medium=thread&utm_campaign=12_os_projects_to_watch_in_2023&utm_content=release_011223#project-substrait> |
+| JHEPC Gallery | <https://jhepc.github.io/gallery.html> |
+| UDL Book | <https://udlbook.github.io/udlbook/> |
+| Vittascience Learn | <https://fr.vittascience.com/learn/?search=&support=&difficulty=&lang=fr> |
+| UCLA R Stats | <https://stats.oarc.ucla.edu/r/> |
+| ModernDive | <https://moderndive.com/index.html> |
+| R ScreenCasts | <https://www.rscreencasts.com/> |
+| Linkwarden | <https://github.com/linkwarden/linkwarden> |
+| Kedro | <https://docs.kedro.org/en/stable/index.html> |
+| bachl/sim | <https://bachl.github.io/sim/> |
+| cfcausal | <https://lihualei71.github.io/cfcausal/articles/cfcausal_demo.html> |
+| tidypolars | <https://github.com/etiennebacher/tidypolars> |
+| LLaMA2-Accessory | <https://github.com/Alpha-VLLM/LLaMA2-Accessory> |
+| statsforecast | <https://nixtla.github.io/statsforecast/> |
+| Causal Inference Book | <https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/> |
+| Causal Inference Views | <https://cran.r-project.org/web/views/CausalInference.html> |
+| R-Causal Blog | <https://r-causal.github.io/r-causal-blog/> |
+| RAPS with R | <https://raps-with-r.dev/> |
+| R-VSCode | <https://rolkra.github.io/R-VSCode/> |
+| Conjoint Bayesian-Frequentist Guide | <https://www.andrewheiss.com/blog/2023/07/25/conjoint-bayesian-frequentist-guide/> |
+| Awesome Causal Inference | <https://github.com/matthewvowels1/Awesome-Causal-Inference> |
+| GitHub Cheat Sheet | <https://github.com/tiimgreen/github-cheat-sheet> |
+| Lists | <https://github.com/jnv/lists> |
+| R Shiny Pharma/Biotech Examples | <https://appsilon.com/r-shiny-pharma-biotech-examples/#clincal?utm_medium=social&utm_source=linkedin&utm_campaign=45161> |
+| Bringing Webr into Shiny | <https://appsilon.com/bringing-webr-into-shiny/> |
+| Unleash Shiny | <https://unleash-shiny.rinterface.com/index.html> |
+| JavaScript for R | <https://book.javascript-for-r.com/> |
+| Marginalia | <https://www.andrewheiss.com/blog/2022/05/20/marginalia/> |
+| Conformal Prediction | <https://arelbundock.com/marginaleffects_conformal.html> |
+| Awesome Devenv | <https://github.com/jondot/awesome-devenv> |
+| AI Dad Jokes | <https://huggingface.co/spaces/HuggingFaceM4/ai_dad_jokes> |
+| Pollen API | <https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide?hl=en> |
+| R Pharma | <https://www.r-consortium.org/tag/r-pharma> |
+| Sociology Article | <https://twitter.com/GregoireSimpson/status/1655239877783347201?t=AmmSEMTAbxZI8yt4tx8Oaw&s=19> |
+| Shutter Encoder | <https://www.shutterencoder.com/fr/> |
+| SpaceSniffer | <https://fromsmash.com/> |
+| SpaceSniffer (Download) | <https://spacesniffer.fr.softonic.com/m> |
+| Introduction to Biological Psychology | <https://openpress.sussex.ac.uk/introductiontobiologicalpsychology> |
+| Quartaki | <https://drmowinckels.github.io/quartaki/> |
+| PsyTeachR | <https://psyteachr.github.io/> |
+| Doing Meta-Analysis in R | <https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/> |
+| Statistical Inferences | <https://lakens.github.io/statistical_inferences/> |
+| Runiverse Discovering | <https://ropensci.org/blog/2023/02/27/runiverse-discovering/> |
+| Bortzmeyer | <https://www.bortzmeyer.org/> |
+| Bougioukas MedStats R | <https://bougioukas-medstats-r.netlify.app/> |
+| ModernDive | <https://moderndive.com/> |
+| Good Practices | <https://www.good-practices.etiennebacher.com/#/title-slide> |
+| A Gentle Intro to Tidymodels | <https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/> |
+| INLA GitBook | <https://becarioprecario.bitbucket.io/inla-gitbook/index.html> |
+| RZine | <https://rzine.fr/> |
+| Cheatsheet for Coding in R, Python, and Julia | <https://geekcologist.wordpress.com/2023/07/04/cheatsheet-for-coding-in-r-python-and-julia/> |
+| Justice | <https://justice.pappers.fr/> |
+| Web Scraping with rvest and London Marathon | <https://nrennie.rbind.io/blog/web-scraping-rvest-london-marathon/> |
+| Awesome Computational Social Science | <https://github.com/gesiscss/awesome-computational-social-science> |
+| RLadies Cambridge: ggplot2 Colours | <https://nrennie.rbind.io/talks/rladies-cambridge-ggplot2-colours/> |
+| Data Wrangling Translations | <https://observablehq.com/@observablehq/data-wrangling-translations> |
+| David Picard | <https://davidpicard.github.io/> |
+| Yards | <https://yards.albert-rapp.de/index.html> |
+| Building Serverless Shiny Apps with Webr | <https://hypebright.nl/index.php/en/2023/07/25/building-serverless-shiny-apps-with-webr-a-step-by-step-guide/> |
+| Shiny Metrics | <https://github.com/devOpifex/shinymetrics> |
+| Unleash Shiny | <https://unleash-shiny.rinterface.com> |
+| Risk Ratio, Odds Ratio, Risk Difference | <https://statmodeling.stat.columbia.edu/2023/04/02/risk-ratio-odds-ratio-risk-difference-which-causal-measure-is-easier-to-generalize/> |
+| rang | <https://github.com/chainsawriot/rang> |
+| Tanya Viz Talks | <https://tanyaviz.com/talks/> |
+| Boost Your Power with Baseline Covariates | <https://solomonkurz.netlify.app/blog/2023-04-12-boost-your-power-with-baseline-covariates/> |
+| Representation Learning on Relational Data | <https://speakerdeck.com/gaelvaroquaux/representation-learning-on-relational-data-to-automate-data-preparation?slide=7> |
+| Metropolis-Hastings | <https://blog.djnavarro.net/posts/2023-04-12_metropolis-hastings/> |
+| The Language of Fake News | <https://www.cambridge.org/core/elements/language-of-fake-news/7B37014A5C0768AEE806167E8ADD5897> |
+| Schmidt Paul | <https://schmidtpaul.github.io/> |
+| GPT4All | <https://gpt4all.io/index.html> |
+| Hugging Face Papers | <https://huggingface.co/papers> |
+| Awesome LLM | <https://github.com/Hannibal046/Awesome-LLM#other-awesome-lists> |
+| IML Methods and Limitations | <https://slds-lmu.github.io/iml_methods_limitations/> |
+| R-Causal | <https://www.r-causal.org/> |
+| GitHub Next | <https://githubnext.com/> |
+| Data Analysis | <https://bookdown.org/mike/data_analysis/> |
+| Quarto Docker | <https://mickael.canouil.fr/posts/2023-05-07-quarto-docker/> |
+| Bookdown | <https://bookdown.org/content/4253/> |
+| Interpretable Machine Learning | <https://arxiv.org/abs/2103.11251> |
+| Interpretable Machine Learning: Definition and Taxonomy | <https://arxiv.org/abs/1702.08608> |
+| Interpretable Machine Learning: A Guide for Making Black Box Models Explainable | <https://arxiv.org/abs/1901.04592> |
+| Interpretable Machine Learning | <https://www.datarevenue.com/en-blog/interpretable-machine-learning> |
+| Interpretability in ML: A Broad Overview | <https://thegradient.pub/interpretability-in-ml-a-broad-overview/> |
+| Interpretable Machine Learning with Python, Second Edition | <https://www.packtpub.com/product/interpretable-machine-learning-with-python-second-edition/9781803235424> |
+| moodymudskipper | <https://github.com/moodymudskipper> |
+| Onyxia | <https://www.onyxia.sh/> |
+| Modeling Mindsets Game | <https://christophm.github.io/modeling-mindsets-game/> |
+| InseeFrLab | <https://github.com/orgs/InseeFrLab/repositories> |
+| InseeFr | <https://github.com/InseeFr> |
+| Confiance.ai | <https://www.confiance.ai/> |
+| Pythonds (Linogaliana) | <https://pythonds.linogaliana.fr/> |
+| BCIR Wis 2021 Schedule | <https://bcirwis2021.github.io/schedule.html> |
+| Writing R in VSCode | <https://renkun.me/2019/12/11/writing-r-in-vscode-a-fresh-start/> |
+| Comment ne pas être perdu avec VSCode quand on vient de RStudio | <https://statnmap.com/fr/2021-10-09-comment-ne-pas-etre-perdu-avec-vscode-quand-on-vient-de-rstudio/> |
+| R in VSCode | <https://datamares.netlify.app/en/post/r-vscode/> |
+| Spatial Data Science | <https://www.paulamoraga.com/book-spatial/> |
+| Shiny Standalone Webr Demo | <https://github.com/georgestagg/shiny-standalone-webr-demo> |
+| R Markdown | <https://pages.citedrive.com/r-markdown/> |
+| pointblank | <https://github.com/rstudio/pointblank> |
+| Conformal Predictions | <http://projects.rajivshah.com/blog/2022/09/24/conformal_predictions/> |
+| Data Visualization Guide | <https://royal-statistical-society.github.io/datavisguide/docs/> |
+| Old Faithful Express Bootstrap Webr | <https://colinfay.me/old-faithful-express-bootstrap-webr> |
+| ChatGPT & Co | <https://huggingface.co/chat/> |
+| LegiGPT | <https://legigpt.fr/> |
+| Interior AI | <https://interiorai.com/> |
+| Poe | <https://poe.com/login?redirect_url=%2F> |
+| Telling Stories with Data | <https://tellingstorieswithdata.com/> |
+| StarCoder | <https://github.com/bigcode-project/starcoder/tree/main> |
+| Hugging Face Inference Endpoints | <https://huggingface.co/blog/inference-endpoints-llm> |
+| GPT Prompt Engineer | <https://github.com/mshumer/gpt-prompt-engineer> |
+| Calicarpa | <https://www.calicarpa.com/> |
+| Infomaniak | <https://www.infomaniak.com/fr> |
+| Giskard | <https://github.com/Giskard-AI/giskard?utm_campaign=Star%20us%20on%20Github&utm_content=166359246&utm_medium=social&utm_source=linkedin&hss_channel=lis-1hjc_qkWxD> |
+| Consensus | <https://consensus.app/> |
+| Nature Article | <https://www.nature.com/articles/s41562-023-01623-8> |
+| Gorilla | <https://github.com/ShishirPatil/gorilla> |
+| How to Write Better Prompts for GitHub Copilot | <https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/> |
+
+
+
+
+
+```{r}
+
+remotes::install_github("alistaire47/read.so")
+library(read.so)
+
+
+links_data <- read.so::read_md()
+
+
+```

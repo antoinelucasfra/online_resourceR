@@ -1,0 +1,84 @@
+---
+title: "installation and using R & Python"
+format: html
+---
+
+Prerequisite : planned to be a document that serves to be complete and definitive about installation R & Python in addition to have a complete vscode install.
+It meant to be fully reproducible.
+
+First : 
+
+- when having an OS without anything installed, if theres a third-party installation please ensure to list everything you already having before continuing.
+
+The key idea here is to have a fully reproducible and complete R & Pytho installation path .
+
+This listing of steps might be very easy on linux systems and straightforward rather than windows, wxe strongly recommend (if possible) using a linux-freidnly OS.
+
+## First you need to install R :
+
+- Recommended way : you can install R via rig which is an installation manager https://github.com/r-lib/rig
+
+With rig you can very easily install multiple and handle different R versions.
+
+- you can follow the classic R installation via CRAN https://cran.rstudio.com/
+
+## Then you need to install python :
+
+- follow classic python installation, python is probably already available if you are with a linux system http://python.org/downloads/
+
+- we recommend also to install pipx to handle python libvrary installation https://github.com/pypa/pipx
+
+## then we need to install our favorite IDE for developing 
+
+Here we VERY strongly recommend using vscode which allows a complete flexibility for developing in various languages (not only in R) : https://code.visualstudio.com/
+
+You can use any other IDE (Rstudio, Pycharm, etc...) but only the configurations of VScode will be developed, feel free to search for your own guides & issues for other IDEs.
+
+## Now we can install various tools for moden development
+
+In R, we are using installation with a modern oriented development workflow.
+
+To finish installation in vscode to have a complete R integration you need to follow the following steps :
+ - follow R & vscode https://code.visualstudio.com/docs/languages/r
+
+For this, we will be having various tools to ensure this workflow : 
+
+- first we'll be using quarto for authoring, reporting and produce deliverables https://quarto.org/docs/get-started/ and you can install quarto vscode extention 
+
+- We can also install quarto wizard on vscode to healp us easy to use quarto extensions https://github.com/mcanouil/quarto-wizard
+
+To follow good principles of development, we'll be using tools to ensure that everything is on track :
+
+For formatting/styling code : 
+
+- air for formatting R code https://posit-dev.github.io/air/editor-vscode.html (alternative to styler)
+
+- ruff for formatting python code https://docs.astral.sh/ruff/
+
+- prettier for any other languages https://prettier.io/
+
+For linting in both R & python you have the errorlens extension that is very complete and useful https://marketplace.visualstudio.com/items/?itemName=usernamehw.errorlens
+
+For notebooks in python : 
+
+- if you want to use notebooks, we strongly recommend using https://github.com/marimo-team/marimo to write in notebooks
+
+- otherwise there's still the classic jupyter alternatives https://jupyter.org/
+
+There's infinite possibilities for vscode extensions, please install them according to your needs and care for trusted publishers.
+here's a sample of mines for R & python project oriented workflow
+
+```{bash}
+code --list-extensions
+```
+
+
+For reproducible environments and library to manage and handle we have :
+
+- uv in python, which is a (COMPLETE AND SUPERIOR) alternative to pyenv and other python pkg management tools https://docs.astral.sh/uv/
+
+- renv to handle R pkg management which is the most common admitted tool to use in R community BUT there's a new tool in town called rv https://github.com/A2-ai/ that is meant to be the uv for R
+
+
+other resources and setup R/VScode : https://rolkra.github.io/R-VSCode/
+https://renkun.me/2022/03/06/my-recommendations-of-vs-code-extensions-for-r/ and more globally various blog posts : https://renkun.me/
